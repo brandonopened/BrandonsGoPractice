@@ -1,6 +1,7 @@
 package main
 import "fmt"
 func main() {
+  var brandon ="233"
   var a [3]string
     a[0] = "Hello"
     a[1] = "World"
@@ -11,7 +12,7 @@ func main() {
     primes := [...]int{2, 3, 5, 7, 11, 13}
 
     fmt.Println(primes)
-    fmt.Println(s)
+    fmt.Println(brandon)
 
 
 //why the second fmt.println?
