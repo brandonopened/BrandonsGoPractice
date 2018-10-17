@@ -47,12 +47,12 @@ Installation
 4. Start the application
   ```
   make up
-  
+
     * To stop the application
 
 
     make down
-    ```
+  ```
 
 5. Install libraries with composer/yarn and build application
   ```
