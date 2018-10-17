@@ -47,10 +47,10 @@ Installation
 4. Start the application
   ```
   make up
-  ```
+  
     * To stop the application
 
-    ```
+
     make down
     ```
 
